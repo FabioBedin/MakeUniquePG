@@ -1,0 +1,10 @@
+
+#DownloadUpdatePG {
+  display: flex;
+  justify-content: center;
+}
+
+#DownloadUpdatePG > i {
+  padding-right: 0.4em;
+  padding-top: 0.09em;
+}
