@@ -1,0 +1,29 @@
+Package: MakeUniquePG
+Title: Make Unique GeneNames
+Version: 0.0.0.9000
+Authors@R: 
+    person("Fabio", "Bedin", , "fabio.bedin.123@gmail.com", role = c("cre", "aut"))
+Description: MakeUniquePG modify a MaxQuant ProteinGroups.txt file to
+    eliminate duplicate gene names.
+License: MIT + file LICENSE
+Imports: 
+    bs4Dash,
+    DT,
+    echarts4r (>= 0.4.0),
+    fresh,
+    golem (>= 0.3.2),
+    htmlwidgets,
+    janitor,
+    shiny (>= 1.7.1),
+    shinyWidgets,
+    tidyverse,
+    vroom
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-US
+LazyData: true
+RoxygenNote: 7.1.2
+Depends: 
+    tidyverse
+URL: https://github.com/FabioBedin/MakeUniquePG
+BugReports: https://github.com/FabioBedin/MakeUniquePG/issues
