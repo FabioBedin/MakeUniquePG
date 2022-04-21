@@ -14,6 +14,7 @@ Imports:
     golem (>= 0.3.2),
     htmlwidgets,
     janitor,
+    magrittr,
     shiny (>= 1.7.1),
     shinyWidgets,
     tidyverse,
